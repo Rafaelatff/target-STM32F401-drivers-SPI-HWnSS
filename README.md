@@ -46,7 +46,7 @@ After sending data, we set a busy flag to hold the code while all the caracters 
 
 ## final code
 
-```
+```c
 /*
  *
  *  Created on: 22 de dez de 2022
